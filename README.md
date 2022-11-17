@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi my name is Alexandre Rodrigues
 
-<!--
-**afonseca00/afonseca00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  ## Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonseca00&langs_count=3&theme=dark"/>
+  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=afonseca00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
+## Languages
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  
+ ## Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42px"/>
+  
+</div >
+
+## Social networks
+
+<div>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
