@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/alexandref-rodrigues/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo"  />
   </a>
-  <a href="mailto:alexandre.rodrigues.dev@gmail.com" target="_blank">
+  <a href="mailto:alexandref.rodrigues8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo"  />
   </a>
   <a href="https://github.com/afonseca00" target="_blank">
